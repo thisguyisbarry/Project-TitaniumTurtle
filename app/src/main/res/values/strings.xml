@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TitaniumTurtle</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_name">Add a name</string>
+    <string name="image_for_item">Image for item</string>
+    <string name="add_image">Add image</string>
+    <string name="add_location_information">Add Location Information</string>
+    <string name="add_note">Add Note</string>
+    <string name="confirm_item">Confirm Item</string>
+    <string name="confirm">Confirm</string>
+    <string name="update">Update</string>
+    <string name="file_error">Error creating file</string>
+    <string name="gallery_button">Gallery Button</string>
+    <string name="denied_camera">Camera Permission is required to use camera.</string>
+    <string name="delete">Delete</string>
+    <string name="InsertFail">Insert Failed</string>
+    <string name="InsertSucceed">Insert Succeeded</string>
+    <string name="UpdateFail">Failed Update</string>
+    <string name="UpdateComplete">Completed Update</string>
+    <string name="FailDelete">Failed Delete</string>
+    <string name="CompleteDelete">Completed Delete</string>
+</resources>

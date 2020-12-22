@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TitaniumTurtle</string>
+    <string name="add_item">Artikel hinzufügen</string>
+    <string name="add_name">Fügen Sie einen Namen hinzu</string>
+    <string name="image_for_item">Bild für Artikel</string>
+    <string name="add_image">Bild hinzufügen</string>
+    <string name="add_location_information">Standortinformationen hinzufügen</string>
+    <string name="add_note">Notiz hinzufügen</string>
+    <string name="confirm_item">Artikel bestätigen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="update">Aktualisieren</string>
+    <string name="file_error">Fehler beim Erstellen der Datei</string>
+    <string name="gallery_button">Galerie-Schaltfläche</string>
+    <string name="denied_camera">44 / 5000 Translation results Kamera Die Erlaubnis zur Verwendung der Kamera ist erforderlich</string>
+    <string name="delete">Löschen</string>
+    <string name="InsertFail">Einfügen fehlgeschlagen</string>
+    <string name="InsertSucceed">Einfügen erfolgreich</string>
+    <string name="UpdateFail">Update fehlgeschlagen</string>
+    <string name="UpdateComplete">Update abgeschlossen</string>
+    <string name="FailDelete">Löschen fehlgeschlagen</string>
+    <string name="CompleteDelete">Löschen abgeschlossen</string>
+</resources>
